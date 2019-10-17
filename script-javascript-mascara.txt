@@ -7,3 +7,15 @@
     });
     
     </script>
+
+
+<script>
+    
+    $(function(){
+        $('.trash'.click(function(){
+            
+        }));
+        
+    });
+    
+    </script>
